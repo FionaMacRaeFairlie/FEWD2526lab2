@@ -1,5 +1,5 @@
 import { items } from "./data/data";
-import MenuTable from "./components/MenuItem";
+import MenuTable from "./components/MenuTable";
 
 export default function App() {
 
